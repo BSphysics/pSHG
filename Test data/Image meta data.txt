@@ -1,0 +1,5 @@
+numSlices = 1
+scanZoomFactor = 3
+acqState = 'loop'
+trigAcqEdge = 'rising'
+S
